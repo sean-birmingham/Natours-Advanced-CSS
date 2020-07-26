@@ -1,1 +1,1 @@
-# Natours-Advanced-CSS
+# Natours (Advanced CSS Course)
